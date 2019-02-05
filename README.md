@@ -15,3 +15,5 @@ This is all about styling a awebpage with formats and styles.
 - [ from course work]https://dev.to/aspittel/css-from-zero-to-hero-3o16
 - [Youtube] https://youtu.be/yfoY53QXEnI
 - [from w3 schools] https://www.w3schools.com/css/
+## Contributors
+![image](https://drive.google.com/file/d/1xpZzarRyehT4XU-7dMAS5DG9ph82ugaj/view)
