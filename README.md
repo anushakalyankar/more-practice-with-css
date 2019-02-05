@@ -16,4 +16,4 @@ This is all about styling a awebpage with formats and styles.
 - [Youtube] https://youtu.be/yfoY53QXEnI
 - [from w3 schools] https://www.w3schools.com/css/
 ## Contributors
-![image](https://drive.google.com/file/d/1xpZzarRyehT4XU-7dMAS5DG9ph82ugaj/view)
+![image](https://plus.google.com/u/0/photos/photo/107692368892163648228/6654638272488273250?authkey=CL7rnsPV-dX46AE)
